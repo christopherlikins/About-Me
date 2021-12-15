@@ -1,4 +1,5 @@
 # About Me
+A short blurb about me with links
 
 Fresh off of finishing a bachelor’s degree in Software Development where I completed 23 college courses in less than six months I am now aggressively job hunting exclusively in Denmark. To keep my skills sharp, I am going to build a mobile app in C# and then eventually create a web app in REACT after I learn how to build a GraphQL api for the SQL database I am designing. I am calling it The Library Steps. I want an application where I can keep track of and recommend galleries, museums, and cultural sites as a way to find new places to explore and get exposure for smaller facilities that may get less exposure.
 
