@@ -2,4 +2,4 @@
 The Initial Endeavor and Colation
 
 
-Stay at home dad frontloading a career. In a few years my kids will be school aged and I would like to be prepared to begin my career. I will be able to do what I love, and never stop learning. It has been a long road back, but I could not be more excited to be writing code and continuing the journey that began with an HTML book in 7th grade.
+Fresh off of finishing a Bachelor's Degree in Software Development where I completed 23 college courses in less than six months I am now agressivly job hunting exclusively in Denmark. To keep my skills sharp I am going to build a mobile app in C# and then eventually create a web app in REACT. I am calling it The Library Steps. I want an application where I can keep track of and recomend galleries, museums, and cultural sites as a way to find new places to explore and get exposure for smaller facilities that may get less exposure.
